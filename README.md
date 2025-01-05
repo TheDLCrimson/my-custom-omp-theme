@@ -1,2 +1,2 @@
 # my-custom-omp-theme
-Just save my theme
+Just save my theme incase I change device
